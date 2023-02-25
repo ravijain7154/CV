@@ -85,7 +85,7 @@ body {
   border-radius:10px
 }
 .bio {
-    position: absolute;
+    /* position: absolute; */
     /* top: 0; */
     left: 0;
     right: 0;
