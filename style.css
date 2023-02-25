@@ -67,14 +67,12 @@ body {
   transform: skewY(-5deg);
 }
 .photo {
-    /* width: 150px; */
-    height: auto;
-    border-radius: 100%;
+    max-width:100px;
+      width:100%;
     margin: auto;
 }
 .photo img {
   max-width:100%;
-  border-radius: 50%;
 }
 .bio .name {
   font-size: 1.5rem;
