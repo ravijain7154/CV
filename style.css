@@ -81,8 +81,8 @@ body {
   opacity:0;
 }
 .photo img {
-  max-width:100%;
-  border-radius:10px
+    max-width: 100%;
+    border-radius: 10px 10px 0px 0px;
 }
 .bio {
     /* position: absolute; */
