@@ -87,7 +87,7 @@ body {
 }
 
 .photo:hover img{
-  transform: scale(1);
+  transform: scaleX(1);
 }
 .photo img {
     max-width: 100%;
